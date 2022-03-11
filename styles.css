@@ -321,6 +321,12 @@ input:focus {
   color: var(--c-light);
   background-color: var(--c-warning);
 }
+
+.input-danger {
+  border: 0;
+  color: var(--c-light);
+  background-color: var(--c-danger);
+}
 .input-orange {
   border: 0;
   color: var(--c-light);
