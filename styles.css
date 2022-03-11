@@ -1,11 +1,4 @@
-body {
-  margin: 0;
-
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-@import url("https://fonts.googleapis.com/css2?family=Skranji&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&display=swap");
 :root {
   --c-primary-l: #207abc;
   --c-primary: #005a9c;
@@ -51,7 +44,7 @@ html {
   font-size: 14px !important;
   animation: fade-in-body 3s;
   scroll-behavior: smooth;
-  font-family: "Skranji", cursive;
+  font-family: "Baloo 2", cursive;
 }
 
 .header-links a {
@@ -199,8 +192,8 @@ p {
 
 .btn,
 button {
+  font-family: "Baloo 2", cursive;
   display: block;
-  font-family: "Skranji", cursive;
   font-size: 1.3rem;
   text-decoration: none;
 
@@ -298,12 +291,12 @@ button:focus {
 
 .input,
 input {
+  font-family: "Baloo 2", cursive;
   border: 1px solid var(--c-dark);
   padding: 0.5rem 0.5rem;
   border-radius: 3px;
   outline: 0;
 
-  font-family: "Skranji", cursive;
   font-size: 1.2rem;
   transition: 0.2s ease-in-out;
 }
