@@ -2,6 +2,16 @@
 
 Toto je šablona vytvořena výhradně pro projekt semináře z informatiky Oktávy a 4.A
 
+## Základní barvy a jejich názvy
+  - primary: #005a9c;
+  - warning: #fcc100;
+  - success: #72ea81;
+  - dark: #343434;
+  - light: #fafafe;
+  - orange: #ff9800;
+  - danger: #ca4343;
+
+
 ## Soubory
 
 ### header.html
