@@ -835,6 +835,14 @@ table tr td:hover {
   padding-left: 5rem;
 }
 
+.bg-transparent {
+  background: transparent;
+}
+
+.bg-inherit {
+  background: inherit;
+}
+
 .bg-primary {
   background: var(--c-primary);
 }
